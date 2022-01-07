@@ -3,7 +3,7 @@ bio:                'HGU Newbie Developer.'
 description:        "Study for 'Why Not Change The World?'"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/MyImg.png'
+logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko_KR
