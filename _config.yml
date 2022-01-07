@@ -11,6 +11,9 @@ locale:             ko_KR
 url:                https://JaeGeunJang.github.io/
 
 # Jekyll
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
