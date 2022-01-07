@@ -1,7 +1,6 @@
-# Site
-title:              JaeGeun's Park
+title:              Park for JG
 bio:                'HGU Newbie Developer.'
-description:        "Study for "Why Not Change The World?""
+description:        "Study for 'Why Not Change The World?'"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/MyImg.png'
@@ -11,9 +10,6 @@ locale:             ko_KR
 url:                https://JaeGeunJang.github.io/
 
 # Jekyll
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
