@@ -2,5 +2,7 @@
 
 - title: Projects
   url: /projects/
+    - title : subProject
+      url : /projects/ 
 - title : Algorithm
-  url: /Algorithm/
+  url: /algorithm/
