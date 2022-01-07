@@ -15,7 +15,7 @@ comments: false
 <center>"Don't Be Evil"</center>
 
 ## Education
-- 2014.03 ~ 현재 한동대학교 재학
+- 2014.03 ~ Handong Global University
 
 ## SKILL
 - language
